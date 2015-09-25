@@ -17,6 +17,6 @@
     },
     "homepage": "https://github.com/waltfy/PROTO_TEST#readme",
     "dependencies": {
-        "immutable": "1.0.0"
+        "immutable": "6.0.0"
     }
 }
